@@ -3,7 +3,8 @@
 <!-- banner here -->
 
 <!-- Aboutme -->
-- 💬 Ask me about
+- 💬 Ask me about ME
+  
 Hello 👋, my name is Sunday P. Afolabi. I am a graduate of the Master's Degree programme in Computer Science at the University of Lagos (UNILAG). 💻
 
 My research interests 🥰 are Machine Learning, Deep Learning, NLP, and Networking. I am passionate about teaching, which I do offline and online using the YouTube platform (you can check out my channel via [spaicthub](https://www.youtube.com/@SPaICTHub)
