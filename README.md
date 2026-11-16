@@ -4,11 +4,11 @@
 
 <!-- Aboutme -->
 - 💬 Ask me about
-Hello 👋, my name is <b>Sunday P. Afolabi</b>. I am from the University of Lagos undergoing a Master's Degree Program in Computer Science 💻.
+Hello 👋, my name is Sunday P. Afolabi. I am a graduate of the Master's Degree programme in Computer Science at the University of Lagos (UNILAG). 💻
 
-My research interests 🥰 are Machine Learning, Deep Learning, NLP, and Networking. I am passionate about teaching which I do offline and online using the YouTube platform (you can check my channel out via [spaicthub](https://www.youtube.com/@SPaICTHub)
+My research interests 🥰 are Machine Learning, Deep Learning, NLP, and Networking. I am passionate about teaching, which I do offline and online using the YouTube platform (you can check out my channel via [spaicthub](https://www.youtube.com/@SPaICTHub)
 
-I love 💌 to join platforms where I can develop skills to help teach people better and create solutions for society 🗺.
+I love 💌 joining platforms where I can develop skills to help teach people better and create solutions for society 🗺.
 
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Artificial Intelligence and Concepts of Programming Languages. 
@@ -24,7 +24,7 @@ I love 💌 to join platforms where I can develop skills to help teach people be
 Teaching | Taking Responsibility | Communication | Problem Solving | Programming
 
 ## Tools
-Git | Github | VSCode
+Git | Github | VSCode | Copilot | ChatGPT | Gemini
 
 <!-- **Lecon-a/Lecon-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
